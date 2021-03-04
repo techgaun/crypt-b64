@@ -11,3 +11,7 @@ Given hash: `$6$HuxJVXbQPLPnqRB$DHCTcDd7xa2pB1l/e64Zg8kRmRuV0EChEoftE5rf3.L2B168
 ```shell
 ./crypt-b64 'DHCTcDd7xa2pB1l/e64Zg8kRmRuV0EChEoftE5rf3.L2B168CA2ir5/EGIBkwLw1Un3E8.43DXe4wwtjqLrxi1'
 ```
+
+## Why
+
+Ikr. Was needed for custom tooling.
